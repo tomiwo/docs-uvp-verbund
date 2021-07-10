@@ -5,3 +5,13 @@ Zugang zum UVP-Editor
 ---------------------
 
 Sie erreichen das UVP-Verbund und damit den Einstieg zum UVP-Editor unter folgender Internetadresse: https://www.uvp-verbund.de/log-in
+
+
+Abb.: 
+
+Für eine neue Registrierung als Nutzer wählen Sie bitte den unteren Button:
+"REGISTRIEREN". 
+
+
+Registrierung / Anlegen eines neuen Nutzers 
+--------------------------------------------
